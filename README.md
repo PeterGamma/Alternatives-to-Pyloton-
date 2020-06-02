@@ -1,4 +1,4 @@
-# Alternatives-to-Pyloton-
+
 BLE for Rasperri PI or Linux PinePhone?
 
 There is no real-time Open Source Data aquisiton software available fot the Pyloton. Integration into OpenSignals?
