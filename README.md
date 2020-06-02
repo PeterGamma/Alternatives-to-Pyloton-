@@ -18,7 +18,7 @@ Gatt Adafruit
 
 https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt
 
-alternative device to install GATT client-server BLE for mobile use Linux PINEPHONE
+Alternative device to install GATT client-server BLE for mobile  Linux PINEPHONE
 
 https://store.pine64.org/?product=pinephone-community-edition-ubports-limited-edition-linux-smartphone
 
