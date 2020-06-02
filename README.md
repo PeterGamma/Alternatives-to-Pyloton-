@@ -1,7 +1,4 @@
-
-BLE for Rasperri PI or Linux PinePhone?
-
-There is no real-time Open Source Data aquisiton software available fot the Pyloton. Integration into OpenSignals?
+There is no real-time Open Source Data aquisiton software available for the Pyloton. Integration into OpenSignals?
 
 https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
 
