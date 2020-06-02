@@ -1,8 +1,3 @@
-There is no real-time Open Source Data aquisiton software available for the Pyloton. Integration into OpenSignals?
-
-https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
-
-
 1. GATT client-server BLE Matlab
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
