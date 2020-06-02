@@ -5,19 +5,6 @@ There is no real-time Open Source Data aquisiton software available fot the Pylo
 
 https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
 
-Adafrui'ts Little Secret - CLUE
-
-https://youtu.be/_7QsbwBeSiU
-
-
-Discussion in DC Rainmakers Blog:
-
-.
-https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-page-1#comment-3574150
-
-JOHN PARK'S WORKSHOP LIVE 2/13/20 Pyloton @adafruit @johnedgarpark 
-
-https://www.youtube.com/watch?v=5rAWbyKmK0s
 
 1. GATT client-server BLE Matlab
 
