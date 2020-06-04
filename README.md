@@ -31,3 +31,8 @@ Alternative setup:
 - BeagleBone Blue has a Matlab step counting example
 - The Matlab BLE example makes reference to Bluetooth 5.0 and shows a figure of a wrist based heart rate sports watch. Amazfit has sports watches which supports Bluetooth 5.0, for instance the Amazfit Verge light
 
+
+Example code to connect a Bluetooth smart (BLE) heart rate sensor to Matlab:
+
+https://www.mathworks.com/matlabcentral/answers/538547-example-code-to-connect-a-bluetooth-smart-ble-heart-rate-sensor-to-matlab?s_tid=prof_contriblnk
+
