@@ -25,10 +25,9 @@ Alternative device to install BLE GATT client-server BLE for mobile applications
 
 https://store.pine64.org/?product=pinephone-community-edition-ubports-limited-edition-linux-smartphone
 
-Probably the easiest solution
+Alternative setup:
 
-Bitalino ECG
-Matlab Toobox
-BeagleBone Blue
-Matlab Example
+- Bitalino ECG has a Matlab Toobox
+- BeagleBone Blue has a Matlab step counting example
+- The Matlab BLE example makes reference to Bluetooth 5.0 and shows a figure of a wrist based heart rate sports watch. Amazfit has sports watches which supports Bluetooth 5.0, for instance the Amazfit Verge light
 
