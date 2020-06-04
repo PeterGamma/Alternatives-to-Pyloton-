@@ -22,4 +22,10 @@ Alternative device to install GATT client-server BLE for mobile  Linux PINEPHONE
 
 https://store.pine64.org/?product=pinephone-community-edition-ubports-limited-edition-linux-smartphone
 
+Probably the easiest solution
+
+Bitalino ECG
+Matlab Toobox
+BeagleBone Blue
+Matlab Example
 
