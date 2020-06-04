@@ -1,3 +1,5 @@
+Different BLE ATT client-server:
+
 1. GATT client-server BLE Matlab
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
@@ -10,15 +12,16 @@ https://www.youtube.com/watch?v=2mePPqiocUE&t=286s
 
 https://learn.adafruit.com/pyloton
 
-Bluetooth GATT
+
+Bluetooth GATT Wiki:
 
 https://bluetoothle.wiki/gatt
 
-Gatt Adafruit
+Gatt documentation Adafruit:
 
 https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt
 
-Alternative device to install GATT client-server BLE for mobile  Linux PINEPHONE
+Alternative device to install BLE GATT client-server BLE for mobile applications:  Linux PINEPHONE
 
 https://store.pine64.org/?product=pinephone-community-edition-ubports-limited-edition-linux-smartphone
 
