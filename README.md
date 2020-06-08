@@ -42,3 +42,6 @@ Running Arduino code on the Beaglebone (Linux system), does also Adarfuit code r
 
 https://www.onlogic.com/company/io-hub/tutorial-running-arduino-ide-beaglebone-black/
 
+ BLE MQTT Gateway:
+
+https://www.youtube.com/watch?v=PBYCG-ypvRY
