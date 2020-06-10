@@ -50,4 +50,4 @@ https://github.com/shmuelzon/ble2mqtt/commits?author=shmuelzon
 
 Pinephone BLE Bike Computer?
 
-https://forum.pine64.org/showthread.php?tid=10172
+https://forum.pine64.org/showthread.php?tid=10172&pid=68026#pid68026
