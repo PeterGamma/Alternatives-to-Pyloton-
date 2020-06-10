@@ -45,3 +45,7 @@ https://www.onlogic.com/company/io-hub/tutorial-running-arduino-ide-beaglebone-b
  BLE MQTT Gateway:
 
 https://www.youtube.com/watch?v=PBYCG-ypvRY
+
+Pinephone BLE Bike Computer?
+
+https://forum.pine64.org/showthread.php?tid=10172
