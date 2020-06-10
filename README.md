@@ -46,6 +46,8 @@ https://www.onlogic.com/company/io-hub/tutorial-running-arduino-ide-beaglebone-b
 
 https://www.youtube.com/watch?v=PBYCG-ypvRY
 
+https://github.com/shmuelzon/ble2mqtt/commits?author=shmuelzon
+
 Pinephone BLE Bike Computer?
 
 https://forum.pine64.org/showthread.php?tid=10172
