@@ -57,3 +57,8 @@ Maybe a Rasperri PI zero with a 4500 mAH battery with a working time of more tha
 https://www.pine64.org/2020/05/15/may-update-pinetab-pre-orders-pinephone-qi-charging-more/?replytocom=1894#respond
 
 But a Rasperri PI zero is very limited as far as connectivity is concerned. A pinephone (has usb c) with an additional external battery pack of 10 000 mAH, and the Pinephone is in the business again. 
+
+The android app a training tracker can record sensor data directly to .csv format:
+
+https://www.thisisant.com/forum/viewthread/7363/
+
