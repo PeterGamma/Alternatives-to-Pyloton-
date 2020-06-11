@@ -51,3 +51,7 @@ https://github.com/shmuelzon/ble2mqtt/commits?author=shmuelzon
 Pinephone BLE Bike Computer?
 
 https://forum.pine64.org/showthread.php?tid=10172&pid=68026#pid68026
+
+Maybe a Rasperri PI zero with a 4500 mAH battery with a working time of more than 20 hrs would be the better platform than a Pinephone, which only has a working time of 3 to 4 hours with a planned extended 5000 mAH battery:
+
+
